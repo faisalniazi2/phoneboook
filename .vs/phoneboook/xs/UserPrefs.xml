@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B9D3ABA5-2F66-4B6B-95D7-303B2BD90A41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="phoneboook/Controllers/PhoneBookController.cs">
+    <Files>
+      <File FileName="phoneboook/PhoneBook.cs" Line="7" Column="13" />
+      <File FileName="phoneboook/Controllers/PhoneBookController.cs" Line="36" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="phoneboook" expanded="True">
+            <Node name="phoneboook" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PhoneBookController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.phoneboook PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
